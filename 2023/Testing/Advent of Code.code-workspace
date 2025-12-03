@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../React"
+		},
+		{
+			"path": "../../Interview"
+		},
+		{
+			"path": "../../C# Coding"
+		},
+		{
+			"path": "../../Asendium"
+		}
+	],
+	"settings": {
+		"intellicode-completions-cdk.loggingLevel": "ALL"
+	}
+}
